@@ -33,7 +33,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Intake, on this image I submit a ticket on behalf of a user to create the first step in our ticketing lifecycle. 
+
+  - Fill in the info requested for the new ticket
+  - Select the help topic for the ticket
+  - Issue a summary for the ticket
 </p>
 <br />
 
@@ -41,7 +45,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, I log in as an IT agent (lead/manager) to review the submitted tickets. I review the following items to ensure I address the problem accordingly. 
+
+  - Review the impact of the issue to set the priority accordingly
+  - Assignment of the ticket to the agents (ensure the correct team or individual is assigned to the ticket)
+  - Set the correct department to address the ticket issue
+  - Update SLA to the level of severity
+   
 </p>
 <br />
 
@@ -49,6 +59,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, I resolve the ticket and communicate with our business user within the ticket
+
+   - Update notes on tickets to communicate with the business users of the next steps and acknowledgment of the ticket is received
+  - Resolve/Close the ticket once a resolution has been communicated to the business user
 </p>
 <br />
