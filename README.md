@@ -30,7 +30,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/CopaceticWill/ticket-lifecycle/assets/137100082/51b4c4f1-3636-4fae-aaa4-6b23bbbcd7af)
+
 </p>
 <p>
 Intake, on this image I submit a ticket on behalf of a user that I created to submit the first step in our ticketing lifecycle. 
@@ -42,7 +44,9 @@ Intake, on this image I submit a ticket on behalf of a user that I created to su
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ ![image](https://github.com/CopaceticWill/ticket-lifecycle/assets/137100082/77fe16ff-1e8d-492a-855f-9d1c52aa7c63)
+
 </p>
 <p>
 In this step, I log in as an IT agent (lead/manager) to review the submitted tickets. I review the following items to ensure I address the problem accordingly. 
@@ -56,7 +60,9 @@ In this step, I log in as an IT agent (lead/manager) to review the submitted tic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  ![image](https://github.com/CopaceticWill/ticket-lifecycle/assets/137100082/5be49f15-e8b4-4558-94cd-36db0705fd9f)
+
 </p>
 <p>
 In this step, I resolve the ticket and communicate with our business user within the ticket
