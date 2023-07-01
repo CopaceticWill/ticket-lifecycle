@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
+- Working on the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Intake, on this image I submit a ticket on behalf of a user to create the first step in our ticketing lifecycle. 
+Intake, on this image I submit a ticket on behalf of a user that I created to submit the first step in our ticketing lifecycle. 
 
   - Fill in the info requested for the new ticket
   - Select the help topic for the ticket
